@@ -1,0 +1,109 @@
+.header{
+	height: 100px;
+}
+.darkred{
+	background-color: darkred;
+}
+
+.container{
+      overflow: hidden;
+}
+.blog{
+	width: 60%;
+	height: 150px;
+	background-color: green;
+	float: left;
+}
+.contact{
+	width: 40%;
+	height: 150px;
+	background-color: skyblue;
+	float: right;
+}
+
+.l{
+	width: 33.33%;
+    height: 150px;
+     float: left;
+}
+.pink{
+    background-color: pink;
+   }
+
+.black{
+
+    background-color: black;
+}
+.khaki{
+
+    background-color: khaki;
+     
+}
+
+
+.k{
+	width: 25%;
+	height: 150px;
+	float: left;
+
+}
+
+.indigo{
+	background-color: indigo;
+ }
+
+.darkblue{
+    
+     background-color: darkblue;
+}
+.navy{
+  
+   background-color: navy;
+ 
+}
+.firebrick{
+   
+   background-color: firebrick;
+   
+}
+
+
+.y{
+	width: 20%;
+	height: 100px;
+	float: left;
+
+}
+.orangered{
+	
+	background-color: orangered;
+ 
+}
+.peru{
+   
+   background-color: peru;
+ 
+}
+.teal{
+   
+   background-color: teal;
+  
+}
+.olive{
+  
+   background-color: olive;
+   
+}
+
+.green{
+  
+  
+   background-color: green;
+  
+}
+
+
+
+.yellow{
+	background-color: yellow;
+}
